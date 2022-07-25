@@ -32,9 +32,6 @@ public class Pruebas {
 
         System.out.println();
 
-
-
-
     }
 
     public static void imprimir(byte variableByte, short variableShor, int variableInt, long variableLong,
